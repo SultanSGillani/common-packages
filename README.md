@@ -29,6 +29,9 @@ npm install common-packages --save
 
 ## Changelog
 ```
+v0.0.4
+Fix the rest of the links
+
 v0.0.3
 Dumb Mistake
 
