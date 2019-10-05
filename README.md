@@ -29,6 +29,9 @@ npm install common-packages --save
 
 ## Changelog
 ```
+v0.0.5
+Fix deps
+
 v0.0.4
 Fix the rest of the links
 
